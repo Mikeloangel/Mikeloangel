@@ -29,9 +29,7 @@
 ![icons8-nodejs-50](https://user-images.githubusercontent.com/103570568/187184575-3102d570-a190-44cd-a4d9-6a1e4e133aac.png)
 ![icons8-mongodb-50](https://user-images.githubusercontent.com/103570568/187184571-eb8899cf-dab9-45a3-a4ea-5c73a6268f61.png)
 ![icons8-postman-api-50](https://user-images.githubusercontent.com/103570568/187184578-edd8b098-d910-4bab-b669-88c3f08af29e.png)
-![image](https://user-images.githubusercontent.com/103570568/187184610-4ca988fe-753a-4c63-a097-801b8332d18d.png)
-
-
+![image](https://user-images.githubusercontent.com/103570568/187184930-bf57ce32-6d08-4679-9766-35cc6eb0c0a5.png)
 
 <!--
 **Mikeloangel/Mikeloangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
