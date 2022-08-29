@@ -40,6 +40,6 @@
 * А в прошлом [фотограф](https://lightformagic.ru/)
 
 * [VK](https://vk.com/mikeloangel)
-* [Telegram @ikeloangel](https://t.me/mikeloangel)
+* [Telegram @Mikeloangel](https://t.me/mikeloangel)
 
 icons by <a target="_blank" href="https://icons8.com">Icons8</a>
