@@ -11,8 +11,14 @@
 ** А чтобы не выгорать хожу в походы 
 
 
-## Мой текущий изученый стек:
-![icons8-html-5-96](https://user-images.githubusercontent.com/103570568/187182394-ce65288f-d1d5-4caa-bc19-ad5ad411ee1e.png)
+## Мой текущий основной стек:
+![icons8-css3-50](https://user-images.githubusercontent.com/103570568/187183674-b75e0d95-c514-436e-8b7d-260a6380a378.png)
+![icons8-git-50](https://user-images.githubusercontent.com/103570568/187183676-3b485a46-f75e-4d8f-84e4-0a898f2e7e8b.png)
+![icons8-html-5-50](https://user-images.githubusercontent.com/103570568/187183677-90f097d3-c1c8-4031-905c-2e8a92305b62.png)
+![icons8-javascript-50](https://user-images.githubusercontent.com/103570568/187183679-34fb2fde-2245-48c6-885c-9372d80aed84.png)
+![icons8-npm-50](https://user-images.githubusercontent.com/103570568/187183682-beb8c7f8-08c6-4b32-b64b-1399e74a9f1a.png)
+![icons8-visual-studio-50](https://user-images.githubusercontent.com/103570568/187183686-0906af6e-b1f9-4f82-8776-987d015db196.png)
+![icons8-webpack-50](https://user-images.githubusercontent.com/103570568/187183688-ec1075de-33ee-41d7-b41e-c9b1877245f0.png)
 
 VSCode
 HTML5
