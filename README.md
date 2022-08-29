@@ -22,7 +22,7 @@
 ![icons8-visual-studio-50](https://user-images.githubusercontent.com/103570568/187183686-0906af6e-b1f9-4f82-8776-987d015db196.png)
 ![icons8-webpack-50](https://user-images.githubusercontent.com/103570568/187183688-ec1075de-33ee-41d7-b41e-c9b1877245f0.png)
 
-Организация файлов по БЭМ
+* Организация файлов по БЭМ
 
 
 ## В процессе ближайшего познания 
@@ -32,8 +32,8 @@
 ![icons8-mongodb-50](https://user-images.githubusercontent.com/103570568/187184571-eb8899cf-dab9-45a3-a4ea-5c73a6268f61.png)
 ![icons8-postman-api-50](https://user-images.githubusercontent.com/103570568/187184578-edd8b098-d910-4bab-b669-88c3f08af29e.png)
 
-Express.js
-Rest API
+* Express.js
+* Rest API
 
 
 icons by <a target="_blank" href="https://icons8.com">Icons8</a>
