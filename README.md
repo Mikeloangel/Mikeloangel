@@ -41,7 +41,7 @@
 * E-mail: [mikeloangel@gmail.com](mailto:mikeloangel@gmail.com)
 * [VK](https://vk.com/mikeloangel)
 * [Telegram @Mikeloangel](https://t.me/mikeloangel)
-* 
+
 ---
 * В прошлом [фотограф](https://lightformagic.ru/), теперь это мое хобби.
 
