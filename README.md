@@ -36,6 +36,8 @@
 * Углубиться знаниями в текущий стэк
 * познакомиться с unit testing
 * cloud deploy
+* TypeScript
+* Angular
 
 ## Контакты
 
