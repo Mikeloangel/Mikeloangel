@@ -42,6 +42,7 @@
 ## Контакты
 
 * E-mail: [mikeloangel@gmail.com](mailto:mikeloangel@gmail.com)
+* [LinkedId](https://www.linkedin.com/in/mikhail-varushichev/)
 * [VK](https://vk.com/mikeloangel)
 * [Telegram @Mikeloangel](https://t.me/mikeloangel)
 
