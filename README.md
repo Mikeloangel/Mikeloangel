@@ -1,18 +1,21 @@
-# Всем привет, меня зовут Михаил 👋
+# Hello 👋 My name is Mike!
 
-Начинающий веб-резработчик, в данный момент учусь на платформе Яндекс.Практикум 
+I'm a junior web-developer and in active search for team.
+Currently, I'm studying at Yandex.Practicum online school.
 
-* С помощью разработки интерфейсов хочу делать мир более доступным, приятным и интересным. 
-* Стремлюсь к работе в команде над интересными проектами
-* Ищу возможность расти и сделать себя стабильным и надежным разработчиком
-* Для достижения цели:
-  * Слушаю наставников и ревьюеров на платформе Я.Практикума
-  * [Решаю задачи на CodeWars](https://www.codewars.com/users/Mikeloangel)
-  * Почитываю перед сном книгу Т. Кормен "Алгоритмы"
-  * А чтобы не выгорать хожу в походы 
+## My principles:
+
+* With help of web development I wish to make world more accessible, pleasant and enjoyable
+* My ambition is to work in a team with good people and nice projects
+* I'm keen to find a way to grow and make myself a stable and reliable developer
+* Currently, to fulfil my goals, I do:
+  * I listen to mentors and code reviewers on the Yandex.Practicum platform
+  * [I solve problems on CodeWars](https://www.codewars.com/users/Mikeloangel)
+  * Before going to sleep I read "Grokking Algorithms" book or watching another crash course video on YouTube
+  * To prevent burnouts I do hike
 
 
-## Мой текущий основной стек:
+## My current tech stack
 
 ![icons8-html-5-50](https://user-images.githubusercontent.com/103570568/187183677-90f097d3-c1c8-4031-905c-2e8a92305b62.png)
 ![icons8-css3-50](https://user-images.githubusercontent.com/103570568/187183674-b75e0d95-c514-436e-8b7d-260a6380a378.png)
@@ -27,26 +30,26 @@
 ![icons8-mongodb-50](https://user-images.githubusercontent.com/103570568/187184571-eb8899cf-dab9-45a3-a4ea-5c73a6268f61.png)
 ![icons8-postman-api-50](https://user-images.githubusercontent.com/103570568/187184578-edd8b098-d910-4bab-b669-88c3f08af29e.png)
 
-* Организация файлов по БЭМ
+* BEM naming and nested file structure for CSS
 * Express.js
 * Rest API
 
-## В процессе ближайшего познания 
+## Coming quite soon
 
-* Углубиться знаниями в текущий стэк
-* познакомиться с unit testing
-* cloud deploy
+* Dive deep with my current stack
+* Get to know unit testing
+* Cloud deploy
 * TypeScript
 * Angular
 
-## Контакты
+## Contact me
 
 * E-mail: [mikeloangel@gmail.com](mailto:mikeloangel@gmail.com)
-* [LinkedId](https://www.linkedin.com/in/mikhail-varushichev/)
+* [LinkedIn](https://www.linkedin.com/in/mikhail-varushichev/)
 * [VK](https://vk.com/mikeloangel)
 * [Telegram @Mikeloangel](https://t.me/mikeloangel)
 
 ---
-* В прошлом [фотограф](https://lightformagic.ru/), теперь это мое хобби.
+* Before I was a [photographer](https://lightformagic.ru/), now It's my nice hobby.
 
 icons by <a target="_blank" href="https://icons8.com">Icons8</a>
