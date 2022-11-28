@@ -19,6 +19,7 @@ Currently, I'm studying at Yandex.Practicum online school.
 
 ![icons8-html-5-50](https://user-images.githubusercontent.com/103570568/187183677-90f097d3-c1c8-4031-905c-2e8a92305b62.png)
 ![icons8-css3-50](https://user-images.githubusercontent.com/103570568/187183674-b75e0d95-c514-436e-8b7d-260a6380a378.png)
+![icons8-sass-48](https://user-images.githubusercontent.com/103570568/204299309-9fb213f0-5d21-49d8-af0e-dbd1c51e4f94.png)
 ![icons8-javascript-50](https://user-images.githubusercontent.com/103570568/187183679-34fb2fde-2245-48c6-885c-9372d80aed84.png)
 ![icons8-реакция-50](https://user-images.githubusercontent.com/103570568/187184585-ed7d834f-073a-46ba-b27b-dfd3457ab795.png)
 ![icons8-настройки-api-50](https://user-images.githubusercontent.com/103570568/187184581-45d81c14-5036-4ed4-be2a-da1edc58ed72.png)
@@ -29,6 +30,7 @@ Currently, I'm studying at Yandex.Practicum online school.
 ![icons8-nodejs-50](https://user-images.githubusercontent.com/103570568/187184575-3102d570-a190-44cd-a4d9-6a1e4e133aac.png)
 ![icons8-mongodb-50](https://user-images.githubusercontent.com/103570568/187184571-eb8899cf-dab9-45a3-a4ea-5c73a6268f61.png)
 ![icons8-postman-api-50](https://user-images.githubusercontent.com/103570568/187184578-edd8b098-d910-4bab-b669-88c3f08af29e.png)
+
 
 * BEM naming and nested file structure for CSS
 * Express.js
