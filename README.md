@@ -35,14 +35,13 @@ Currently, I'm studying at Yandex.Practicum online school.
 * BEM naming and nested file structure for CSS
 * Express.js
 * Rest API
+* Cloud deploy
 
 ## Coming quite soon
 
 * Dive deep with my current stack
 * Get to know unit testing
-* Cloud deploy
 * TypeScript
-* Angular
 
 ## Contact me
 
