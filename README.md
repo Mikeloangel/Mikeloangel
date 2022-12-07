@@ -1,7 +1,7 @@
 # Hello 👋 My name is Mike!
 
-I'm a junior web-developer and in active search for team.
-Currently, I'm studying at Yandex.Practicum online school.
+I'm a web-developer and now in active search for dream team.
+Currently, I'm successfully finishing Yandex.Practicum online school.
 
 ## My principles:
 
