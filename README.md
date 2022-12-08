@@ -40,8 +40,9 @@ Currently, I'm successfully finishing Yandex.Practicum online school.
 ## Coming quite soon
 
 * Dive deep with my current stack
-* Get to know unit testing
+* Get to know unit testing (Jest)
 * TypeScript
+* React 16 -> React 18 shift
 
 ## Contact me
 
