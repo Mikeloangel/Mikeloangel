@@ -31,16 +31,14 @@ Currently, I'm successfully finishing Yandex.Practicum online school.
 ![icons8-mongodb-50](https://user-images.githubusercontent.com/103570568/187184571-eb8899cf-dab9-45a3-a4ea-5c73a6268f61.png)
 ![icons8-postman-api-50](https://user-images.githubusercontent.com/103570568/187184578-edd8b098-d910-4bab-b669-88c3f08af29e.png)
 
-* JQuery
-* PHP
-* Laravel
-* MySQL
-
-
 * BEM naming and nested file structure for CSS
 * Express.js
 * Rest API
 * Cloud deploy
+* JQuery
+* PHP
+* Laravel
+* MySQL
 
 ## Coming quite soon
 
