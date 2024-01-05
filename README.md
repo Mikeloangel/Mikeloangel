@@ -2,6 +2,10 @@
 
 Fullstack developer
 
+PHP - Laravel, Yii
+MySQL
+JS, React
+
 ## Contact me
 
 * E-mail: [mikeloangel@gmail.com](mailto:mikeloangel@gmail.com)
