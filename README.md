@@ -2,9 +2,23 @@
 
 Fullstack developer
 
-PHP - Laravel, Yii
-MySQL
-JS, React
+Backend
+* PHP - Laravel, Yii
+* MySQL
+* Rest API
+* Go (ongoing educational process)
+
+Frontend
+* HTML / CSS / SCSS (BEM)
+* JavaScript / Typescript
+* ReactJS / Inertia
+
+Devops basics
+* Unix
+* Nginx
+* Docker
+* Jenkins 
+  
 
 ## Contact me
 
